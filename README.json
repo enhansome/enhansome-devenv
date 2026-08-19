@@ -627,10 +627,10 @@
                     "archived": false,
                     "id": 41881900,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T12:21:03Z",
+                    "last_commit": "2026-08-19T12:40:56Z",
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 188923
+                    "stars": 188926
                   }
                 },
                 {
@@ -645,7 +645,7 @@
                     "last_commit": "2026-08-18T18:33:20Z",
                     "owner": "microsoft",
                     "repo": "monaco-editor",
-                    "stars": 46554
+                    "stars": 46555
                   }
                 }
               ],
@@ -1008,7 +1008,7 @@
                 "last_commit": "2026-08-17T21:45:08Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189264
+                "stars": 189266
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-08-04T13:59:44Z",
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 67394
+                "stars": 67395
               }
             },
             {
@@ -1202,7 +1202,7 @@
                 "last_commit": "2026-08-17T21:45:08Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189264
+                "stars": 189266
               }
             },
             {
@@ -1217,7 +1217,7 @@
                 "last_commit": "2026-08-19T10:40:09Z",
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 38719
+                "stars": 38722
               }
             },
             {
@@ -1232,7 +1232,7 @@
                 "last_commit": "2025-02-27T16:03:23Z",
                 "owner": "wting",
                 "repo": "autojump",
-                "stars": 16959
+                "stars": 16960
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2026-08-19T02:08:24Z",
                 "owner": "facebook",
                 "repo": "watchman",
-                "stars": 13682
+                "stars": 13683
               }
             },
             {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:09.185Z",
+    "last_updated": "2026-08-19T13:03:35.783Z",
     "original_repository": "jondot/awesome-devenv",
     "original_repository_id": 21687084,
     "original_repository_sha": "c67721d2d62f64d50e8fc39a058ea27a43181d4f",
