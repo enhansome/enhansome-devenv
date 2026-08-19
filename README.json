@@ -1,1341 +1,1447 @@
 {
   "items": [
     {
-      "description": "Tools to manage databases, permissions, etc.",
+      "description": "Note: for an OS specific tool, please do your best to mark with",
       "items": [
         {
-          "node_type": "item",
-          "title": "MongoHub",
-          "description": "Native OSx client for mongo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-05-04T05:02:49Z",
-            "owner": "jeromelebel",
-            "repo": "MongoHub-Mac",
-            "stars": 2416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hss",
-          "description": "Never type the annoying ssh commands again.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-17T01:27:47Z",
-            "owner": "six-ddc",
-            "repo": "hss",
-            "stars": 380
-          }
-        }
-      ],
-      "title": "Admins"
-    },
-    {
-      "description": "Tools to benchmark your code or services",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wrk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-30T10:33:51Z",
-            "owner": "wg",
-            "repo": "wrk",
-            "stars": 40387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vegeta",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-16T14:07:07Z",
-            "owner": "tsenart",
-            "repo": "vegeta",
-            "stars": 25152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "boom",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2016-09-02T20:04:09Z",
-            "owner": "rakyll",
-            "repo": "boom",
-            "stars": 4698
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phantomas",
-          "description": "website perf evaluation tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T18:15:37Z",
-            "owner": "macbre",
-            "repo": "phantomas",
-            "stars": 2260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redis-faina",
-          "description": "Instagram's Redis counter/timing stats based on the MONITOR command",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-03-05T22:52:51Z",
-            "owner": "facebookarchive",
-            "repo": "redis-faina",
-            "stars": 1776
-          }
-        }
-      ],
-      "title": "Benchmarking"
-    },
-    {
-      "description": "Tools for checking diagnosing your system while you work",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "glances",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:20:49Z",
-            "owner": "nicolargo",
-            "repo": "glances",
-            "stars": 33371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gtop",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-06T13:55:02Z",
-            "owner": "aksakalli",
-            "repo": "gtop",
-            "stars": 9928
-          }
-        }
-      ],
-      "title": "Diagnostics"
-    },
-    {
-      "description": "Tools for improving and hacking around with your vanilla desktop",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hydra",
-          "description": "script your desktop",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-03-14T21:17:43Z",
-            "owner": "mjolnirapp",
-            "repo": "mjolnir",
-            "stars": 5217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keycastr",
-          "description": "show your keys while presenting/casting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-04-03T09:56:54Z",
-            "owner": "sdeken",
-            "repo": "keycastr",
-            "stars": 476
-          }
-        }
-      ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mathias Bynens's",
-          "description": ".files, including ~/.osx — sensible hacker defaults for OS X",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-08-05T19:06:13Z",
-            "owner": "mathiasbynens",
-            "repo": "dotfiles",
-            "stars": 31452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Thoughtbot's",
-          "description": "A set of vim, zsh, git, and tmux configuration files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T10:31:34Z",
-            "owner": "thoughtbot",
-            "repo": "dotfiles",
-            "stars": 8168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zach Holman's",
-          "description": "oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-25T16:44:18Z",
-            "owner": "holman",
-            "repo": "dotfiles",
-            "stars": 7757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paul Miller's",
-          "description": "Colourful & robust OS X configuration files and utilities",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-08-17T05:45:04Z",
-            "owner": "paulmillr",
-            "repo": "dotfiles",
-            "stars": 1239
-          }
-        }
-      ],
-      "title": "Dotfiles"
-    },
-    {
-      "description": "Only awesome tools and addons for your favorite editor",
-      "items": [],
-      "title": "Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "atom-beautify",
-          "description": "Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2026-02-14T14:00:33Z",
-            "owner": "Glavin001",
-            "repo": "atom-beautify",
-            "stars": 1503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "file-icons",
-          "description": "Adds file specific icons to atom for improved visual grepping.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-28T05:36:10Z",
-            "owner": "file-icons",
-            "repo": "atom",
-            "stars": 1373
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "minimap",
-          "description": "A graphical map (preview) of the full source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-08T09:30:32Z",
-            "owner": "atom-minimap",
-            "repo": "minimap",
-            "stars": 641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atom-pigments",
-          "description": "An Atom package to display colors in project and files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2023-01-10T23:15:58Z",
-            "owner": "abe33",
-            "repo": "atom-pigments",
-            "stars": 518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atom-project-manager",
-          "description": "Get easy access to all your projects and manage them with project specific settings and options.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-02-02T00:16:23Z",
-            "owner": "danielbrodin",
-            "repo": "atom-project-manager",
-            "stars": 510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "highlight-selected",
-          "description": "Double click on a word to highlight it throughout the open file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T21:45:14Z",
-            "owner": "Pulsar-Edit-Highlights",
-            "repo": "selected",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "minimap-highlight-selected",
-          "description": "A minimap binding for the highlight-selected package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-06T19:58:22Z",
-            "owner": "atom-minimap",
-            "repo": "minimap-highlight-selected",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atom-tree-view-git-status",
-          "description": "Show the Git repository status in the Atom tree-view.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CoffeeScript",
-            "last_commit": "2022-06-12T07:21:10Z",
-            "owner": "subesokun",
-            "repo": "atom-tree-view-git-status",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "minimap-git-diff",
-          "description": "A minimap binding for the Atom git-diff package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-06T13:58:17Z",
-            "owner": "atom-minimap",
-            "repo": "minimap-git-diff",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Atom"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Powerline",
-          "description": "improved status bar for your buffers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-11T01:18:21Z",
-            "owner": "powerline",
-            "repo": "powerline",
-            "stars": 14799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snipmate",
-          "description": "textual snippets compatiable with Textmate snippets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2025-05-14T11:55:17Z",
-            "owner": "garbas",
-            "repo": "vim-snipmate",
-            "stars": 2019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Completor",
-          "description": "async autocomplete with support for omni and semantic completion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-27T19:47:37Z",
-            "owner": "maralla",
-            "repo": "completor.vim",
-            "stars": 1317
-          }
-        }
-      ],
-      "title": "Vim"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Emmet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-28T20:25:51Z",
-            "owner": "sergeche",
-            "repo": "emmet-sublime",
-            "stars": 5216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Git Gutter",
-          "description": "display changed/added lines in the margin of the editor window.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-21T17:06:17Z",
-            "owner": "jisaacks",
-            "repo": "GitGutter",
-            "stars": 3880
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MarkdownEditing",
-          "description": "Markdown syntax understanding and good color schemes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T16:56:01Z",
-            "owner": "SublimeText-Markdown",
-            "repo": "MarkdownEditing",
-            "stars": 3317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sublime Git",
-          "description": "Git Integration for Sublime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-13T13:50:27Z",
-            "owner": "kemayo",
-            "repo": "sublime-text-git",
-            "stars": 2816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Side Bar Enhancments",
-          "description": "Enhancements to Sublime Text sidebar. Files and folders.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T20:30:33Z",
-            "owner": "titoBouzout",
-            "repo": "SideBarEnhancements",
-            "stars": 2221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sublime Linter",
-          "description": "Interactive code linting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-23T10:58:16Z",
-            "owner": "SublimeLinter",
-            "repo": "SublimeLinter",
-            "stars": 2039
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsFormat",
-          "description": "Javascript formatting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-05T07:25:38Z",
-            "owner": "jdavisclark",
-            "repo": "JsFormat",
-            "stars": 1421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TrailingSpaces",
-          "description": "Highlight trailing spaces and delete them in a flash.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-24T20:48:51Z",
-            "owner": "SublimeText",
-            "repo": "TrailingSpaces",
-            "stars": 890
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AdvancedNewFile",
-          "description": "File creation plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-07T20:45:19Z",
-            "owner": "SublimeText",
-            "repo": "AdvancedNewFile",
-            "stars": 833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RubyTest",
-          "description": "Plugin for running Ruby tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-08-22T09:18:20Z",
-            "owner": "maltize",
-            "repo": "sublime-text-2-ruby-tests",
-            "stars": 715
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LiveReload",
-          "description": "LiveReload plugin.",
-          "children": []
-        }
-      ],
-      "title": "Sublime Text 3"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dev Git Repo",
-          "description": "Github code repository for VS Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:01:56Z",
-            "owner": "microsoft",
-            "repo": "vscode",
-            "stars": 188896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monaco Editor Git Repo",
-          "description": "Github code repository for underlying browser-based editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T21:01:59Z",
-            "owner": "microsoft",
-            "repo": "monaco-editor",
-            "stars": 46551
-          }
-        }
-      ],
-      "title": "Visual Studio Code"
-    },
-    {
-      "description": "Tools and addons for making an awesome Git experience",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "git-extras",
-          "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T06:15:49Z",
-            "owner": "tj",
-            "repo": "git-extras",
-            "stars": 18093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-secret",
-          "description": "A bash-tool to store your private data inside a git repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-11T14:12:25Z",
-            "owner": "sobolevn",
-            "repo": "git-secret",
-            "stars": 4036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-sweep",
-          "description": "safely removes branches that have been merged into the master",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-01T23:47:22Z",
-            "owner": "arc90",
-            "repo": "git-sweep",
-            "stars": 2703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-up",
-          "description": "a better 'git pull'",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-11-07T22:48:59Z",
-            "owner": "aanand",
-            "repo": "git-up",
-            "stars": 2586
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-extra-commands",
-          "description": "collected git helper scripts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T09:44:54Z",
-            "owner": "unixorn",
-            "repo": "git-extra-commands",
-            "stars": 1171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gh",
-          "description": "Fast GitHub command line client (hub port to Go)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-10-07T19:07:38Z",
-            "owner": "owenthereal",
-            "repo": "gh",
-            "stars": 717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-github",
-          "description": "Faraz Fallahi maintains a curated list of GitHub & Git resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-20T07:40:40Z",
-            "owner": "fffaraz",
-            "repo": "awesome-github",
-            "stars": 541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-semver",
-          "description": "A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-01-21T13:43:47Z",
-            "owner": "markchalloner",
-            "repo": "git-semver",
-            "stars": 395
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-it-on",
-          "description": "ZSH plugin, adds a gitit command that opens the current directory on github in your current branch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-01-06T15:37:52Z",
-            "owner": "peterhurford",
-            "repo": "git-it-on.zsh",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scm_breeze",
-          "description": "Streamline your git workflow",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-28T01:48:57Z",
-            "owner": "ndbroadbent",
-            "repo": "scm_breeze",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Git"
-    },
-    {
-      "description": "Tools for orchestrating awesome development environments",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nanobox",
-          "description": "A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-10-21T20:03:10Z",
-            "owner": "nanobox-io",
-            "repo": "nanobox",
-            "stars": 1633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "azk",
-          "description": "a lightweight open source engine to orchestrate development environments",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-04-26T07:30:01Z",
-            "owner": "azukiapp",
-            "repo": "azk",
-            "stars": 894
-          }
-        }
-      ],
-      "title": "Orchestration"
-    },
-    {
-      "description": "Tools for presenting your work",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "reveal.js",
-          "description": "markdown based presentation on your browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-21T19:20:20Z",
-            "owner": "hakimel",
-            "repo": "reveal.js",
-            "stars": 72142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impress.js",
-          "description": "presentation framework based on the power of CSS3 transforms and transitions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T07:05:16Z",
-            "owner": "impress",
-            "repo": "impress.js",
-            "stars": 38173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "remark",
-          "description": "markdown based presentation on your browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-19T09:27:31Z",
-            "owner": "gnab",
-            "repo": "remark",
-            "stars": 13001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebSlides",
-          "description": "Making HTML presentations easy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-10T13:03:52Z",
-            "owner": "webslides",
-            "repo": "WebSlides",
-            "stars": 6322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deck.js",
-          "description": "markdown based presentation on your browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-28T20:09:58Z",
-            "owner": "imakewebthings",
-            "repo": "deck.js",
-            "stars": 5421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bespoke.js",
-          "description": "DIY Presentation Micro-Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-09-08T20:46:55Z",
-            "owner": "bespokejs",
-            "repo": "bespoke",
-            "stars": 4796
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vimdeck",
-          "description": "present inside your Vim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-01-11T19:07:11Z",
-            "owner": "tybenz",
-            "repo": "vimdeck",
-            "stars": 1407
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hacker-slides",
-          "description": "Reveal.js based presentation tool",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-05-12T00:35:01Z",
-            "owner": "msoedov",
-            "repo": "hacker-slides",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mithril-slides",
-          "description": "A Keynote-inspired presentation app written with Mithril",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-08-26T05:16:26Z",
-            "owner": "wulab",
-            "repo": "mithril-slides",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Presentation"
-    },
-    {
-      "description": "Tools for having an awesome shell environment",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "oh-my-zsh",
-          "description": "A community driven framework for managing zsh configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T21:45:08Z",
-            "owner": "ohmyzsh",
-            "repo": "ohmyzsh",
-            "stars": 189240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shellcheck",
-          "description": "Lint for shell. Will find deprecated and/or dangerous usage in shell scripts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-08-04T08:32:46Z",
-            "owner": "koalaman",
-            "repo": "shellcheck",
-            "stars": 39887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fish-shell",
-          "description": "The user-friendly command line shell",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T02:22:22Z",
-            "owner": "fish-shell",
-            "repo": "fish-shell",
-            "stars": 34032
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-zsh-plugins",
-          "description": "List of zsh plugins usable with zgen and other oh-my-zsh compatible zsh frameworks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-16T14:54:02Z",
-            "owner": "unixorn",
-            "repo": "awesome-zsh-plugins",
-            "stars": 17937
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oh-my-fish",
-          "description": "Framework for managing your fish shell configuration inspired by oh-my-zsh.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-19T18:17:02Z",
-            "owner": "oh-my-fish",
-            "repo": "oh-my-fish",
-            "stars": 11374
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgen",
-          "description": "Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-07-21T03:56:30Z",
-            "owner": "tarjoilija",
-            "repo": "zgen",
-            "stars": 1528
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zsh quickstart kit",
-          "description": "Quick intro for getting set up with zsh and zgen",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T22:35:45Z",
-            "owner": "unixorn",
-            "repo": "zsh-quickstart-kit",
-            "stars": 908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hss",
-          "description": "Never type the annoying ssh commands again.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-17T01:27:47Z",
-            "owner": "six-ddc",
-            "repo": "hss",
-            "stars": 380
-          }
-        }
-      ],
-      "title": "Shell"
-    },
-    {
-      "description": "Tools for working with text files - search, replace, processing",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ripgrep",
-          "description": "Faster than grep, written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-04T13:59:44Z",
-            "owner": "BurntSushi",
-            "repo": "ripgrep",
-            "stars": 67369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ag",
-          "description": "A C based code-searching tool similar to ack, but faster",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-06-16T19:37:41Z",
-            "owner": "ggreer",
-            "repo": "the_silver_searcher",
-            "stars": 27104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "peco",
-          "description": "interactive filtering, like interactive Grep",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-01T10:02:37Z",
-            "owner": "peco",
-            "repo": "peco",
-            "stars": 7908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ack",
-          "description": "the Perl based better-than-grep tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2019-03-19T14:41:58Z",
-            "owner": "beyondgrep",
-            "repo": "ack2",
-            "stars": 1466
-          }
-        }
-      ],
-      "title": "Text"
-    },
-    {
-      "description": "Tools and addons for terminal and terminal work",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "oh-my-zsh",
-          "description": "the incredible ZSH addon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T21:45:08Z",
-            "owner": "ohmyzsh",
-            "repo": "ohmyzsh",
-            "stars": 189240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zoxide",
-          "description": "A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T19:14:18Z",
-            "owner": "ajeetdsouza",
-            "repo": "zoxide",
-            "stars": 38700
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autojump",
-          "description": "remembers your folders and jump to them based on partial recall (e.g. will jump to .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-27T16:03:23Z",
-            "owner": "wting",
-            "repo": "autojump",
-            "stars": 16958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fasd",
-          "description": "Command-line productivity booster, offers quick access to files and directories.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2020-06-04T18:44:10Z",
-            "owner": "clvv",
-            "repo": "fasd",
-            "stars": 5908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hss",
-          "description": "Never type the annoying ssh commands again.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-17T01:27:47Z",
-            "owner": "six-ddc",
-            "repo": "hss",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "freshenv",
-          "description": "Provision, share, manage local and cloud developer environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-30T19:10:21Z",
-            "owner": "raiyanyahya",
-            "repo": "freshenv",
-            "stars": 177
-          }
-        }
-      ],
-      "title": "Terminal"
-    },
-    {
-      "description": "Tools and addons which improve your daily workflow with code",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "watchman",
-          "description": "Facebook's better - note it works as a service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T20:06:27Z",
-            "owner": "facebook",
-            "repo": "watchman",
-            "stars": 13682
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "guard",
-          "description": "FS watch tool with a huge ecosystem of plugins",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-16T07:46:14Z",
-            "owner": "guard",
-            "repo": "guard",
-            "stars": 6441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fswatch",
-          "description": "a watch tool which will emit FS events and you can run commands on demand with. Note - too.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-22T17:12:54Z",
-            "owner": "emcrisostomo",
-            "repo": "fswatch",
-            "stars": 5582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ergo",
-          "description": "The management of multiple local services running over different ports made easy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-02T13:57:13Z",
-            "owner": "cristianoliveira",
-            "repo": "ergo",
-            "stars": 651
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gebug",
-          "description": "A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-03T15:56:26Z",
-            "owner": "moshebe",
-            "repo": "gebug",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zappr",
-          "description": "GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-08-27T19:14:58Z",
-            "owner": "zalando",
-            "repo": "zappr",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prodmodel",
-          "description": "Build tool for data science pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T17:00:28Z",
-            "owner": "prodmodel",
-            "repo": "prodmodel",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "LiveReload",
-          "description": "FS watch and preprocessor as a desktop app for and with complementary browser extensions",
           "children": [
             {
               "node_type": "item",
-              "title": "guard-livereload",
-              "description": "Guard plugin compatible with LiveReload's browser extensions",
+              "title": "MongoHub",
+              "description": "Native OSx client for mongo",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2022-11-07T16:11:15Z",
-                "owner": "guard",
-                "repo": "guard-livereload",
-                "stars": 2110
+                "id": 1982521,
+                "language": "Objective-C",
+                "last_commit": "2021-05-04T05:02:49Z",
+                "owner": "jeromelebel",
+                "repo": "MongoHub-Mac",
+                "stars": 2416
               }
             },
             {
               "node_type": "item",
-              "title": "simplehttp",
-              "description": "Fastest and simplest way to start serving a local directory over http.",
+              "title": "hss",
+              "description": "Never type the annoying ssh commands again.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Go",
-                "last_commit": "2023-03-06T03:28:00Z",
-                "owner": "snwfdhmp",
-                "repo": "simplehttp",
-                "stars": 76
+                "id": 105174855,
+                "language": "C",
+                "last_commit": "2025-10-17T01:27:47Z",
+                "owner": "six-ddc",
+                "repo": "hss",
+                "stars": 380
               }
             }
-          ]
+          ],
+          "description": "Tools to manage databases, permissions, etc.",
+          "node_type": "group",
+          "title": "Admins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wrk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3774328,
+                "language": "C",
+                "last_commit": "2023-12-30T10:33:51Z",
+                "owner": "wg",
+                "repo": "wrk",
+                "stars": 40389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vegeta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12080551,
+                "language": "Go",
+                "last_commit": "2026-02-16T14:07:07Z",
+                "owner": "tsenart",
+                "repo": "vegeta",
+                "stars": 25152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boom",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15633115,
+                "language": "Go",
+                "last_commit": "2016-09-02T20:04:09Z",
+                "owner": "rakyll",
+                "repo": "boom",
+                "stars": 4698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phantomas",
+              "description": "website perf evaluation tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4939243,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T18:15:37Z",
+                "owner": "macbre",
+                "repo": "phantomas",
+                "stars": 2260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis-faina",
+              "description": "Instagram's Redis counter/timing stats based on the MONITOR command",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4341615,
+                "language": "Python",
+                "last_commit": "2020-03-05T22:52:51Z",
+                "owner": "facebookarchive",
+                "repo": "redis-faina",
+                "stars": 1776
+              }
+            }
+          ],
+          "description": "Tools to benchmark your code or services",
+          "node_type": "group",
+          "title": "Benchmarking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "glances",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2909429,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:20:49Z",
+                "owner": "nicolargo",
+                "repo": "glances",
+                "stars": 33377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gtop",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99822164,
+                "language": "JavaScript",
+                "last_commit": "2025-11-06T13:55:02Z",
+                "owner": "aksakalli",
+                "repo": "gtop",
+                "stars": 9928
+              }
+            }
+          ],
+          "description": "Tools for checking diagnosing your system while you work",
+          "node_type": "group",
+          "title": "Diagnostics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hydra",
+              "description": "script your desktop",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20999018,
+                "language": "C",
+                "last_commit": "2021-03-14T21:17:43Z",
+                "owner": "mjolnirapp",
+                "repo": "mjolnir",
+                "stars": 5217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keycastr",
+              "description": "show your keys while presenting/casting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68815499,
+                "language": "Objective-C",
+                "last_commit": "2021-04-03T09:56:54Z",
+                "owner": "sdeken",
+                "repo": "keycastr",
+                "stars": 476
+              }
+            }
+          ],
+          "description": "Tools for improving and hacking around with your vanilla desktop",
+          "node_type": "group",
+          "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mathias Bynens's",
+              "description": ".files, including ~/.osx — sensible hacker defaults for OS X",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2329766,
+                "language": "Shell",
+                "last_commit": "2024-08-05T19:06:13Z",
+                "owner": "mathiasbynens",
+                "repo": "dotfiles",
+                "stars": 31455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thoughtbot's",
+              "description": "A set of vim, zsh, git, and tmux configuration files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1252522,
+                "language": "Shell",
+                "last_commit": "2026-08-18T10:31:34Z",
+                "owner": "thoughtbot",
+                "repo": "dotfiles",
+                "stars": 8168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zach Holman's",
+              "description": "oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611562,
+                "language": "Shell",
+                "last_commit": "2026-06-25T16:44:18Z",
+                "owner": "holman",
+                "repo": "dotfiles",
+                "stars": 7759
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paul Miller's",
+              "description": "Colourful & robust OS X configuration files and utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1921317,
+                "language": "Vim Script",
+                "last_commit": "2026-08-19T03:22:52Z",
+                "owner": "paulmillr",
+                "repo": "dotfiles",
+                "stars": 1239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dotfiles"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "atom-beautify",
+                  "description": "Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17356911,
+                    "language": "CoffeeScript",
+                    "last_commit": "2026-02-14T14:00:33Z",
+                    "owner": "Glavin001",
+                    "repo": "atom-beautify",
+                    "stars": 1503
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "file-icons",
+                  "description": "Adds file specific icons to atom for improved visual grepping.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18156210,
+                    "language": "JavaScript",
+                    "last_commit": "2025-12-28T05:36:10Z",
+                    "owner": "file-icons",
+                    "repo": "atom",
+                    "stars": 1373
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "minimap",
+                  "description": "A graphical map (preview) of the full source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17548747,
+                    "language": "JavaScript",
+                    "last_commit": "2024-12-08T09:30:32Z",
+                    "owner": "atom-minimap",
+                    "repo": "minimap",
+                    "stars": 641
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "atom-pigments",
+                  "description": "An Atom package to display colors in project and files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31661469,
+                    "language": "CoffeeScript",
+                    "last_commit": "2023-01-10T23:15:58Z",
+                    "owner": "abe33",
+                    "repo": "atom-pigments",
+                    "stars": 518
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "atom-project-manager",
+                  "description": "Get easy access to all your projects and manage them with project specific settings and options.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 17912038,
+                    "language": "JavaScript",
+                    "last_commit": "2022-02-02T00:16:23Z",
+                    "owner": "danielbrodin",
+                    "repo": "atom-project-manager",
+                    "stars": 510
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "highlight-selected",
+                  "description": "Double click on a word to highlight it throughout the open file.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17344383,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-03T21:45:14Z",
+                    "owner": "Pulsar-Edit-Highlights",
+                    "repo": "selected",
+                    "stars": 248
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "minimap-highlight-selected",
+                  "description": "A minimap binding for the highlight-selected package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19374498,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-06T19:58:22Z",
+                    "owner": "atom-minimap",
+                    "repo": "minimap-highlight-selected",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "atom-tree-view-git-status",
+                  "description": "Show the Git repository status in the Atom tree-view.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 36235094,
+                    "language": "CoffeeScript",
+                    "last_commit": "2022-06-12T07:21:10Z",
+                    "owner": "subesokun",
+                    "repo": "atom-tree-view-git-status",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "minimap-git-diff",
+                  "description": "A minimap binding for the Atom git-diff package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18569493,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-06T13:58:17Z",
+                    "owner": "atom-minimap",
+                    "repo": "minimap-git-diff",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Atom"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Powerline",
+                  "description": "improved status bar for your buffers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4637221,
+                    "language": "Python",
+                    "last_commit": "2026-03-11T01:18:21Z",
+                    "owner": "powerline",
+                    "repo": "powerline",
+                    "stars": 14799
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "snipmate",
+                  "description": "textual snippets compatiable with Textmate snippets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1111757,
+                    "language": "Vim Script",
+                    "last_commit": "2025-05-14T11:55:17Z",
+                    "owner": "garbas",
+                    "repo": "vim-snipmate",
+                    "stars": 2019
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Completor",
+                  "description": "async autocomplete with support for omni and semantic completion.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68177391,
+                    "language": "Python",
+                    "last_commit": "2026-03-27T19:47:37Z",
+                    "owner": "maralla",
+                    "repo": "completor.vim",
+                    "stars": 1317
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vim"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Emmet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5060433,
+                    "language": "JavaScript",
+                    "last_commit": "2023-06-28T20:25:51Z",
+                    "owner": "sergeche",
+                    "repo": "emmet-sublime",
+                    "stars": 5216
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Git Gutter",
+                  "description": "display changed/added lines in the margin of the editor window.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7064308,
+                    "language": "Python",
+                    "last_commit": "2026-03-21T17:06:17Z",
+                    "owner": "jisaacks",
+                    "repo": "GitGutter",
+                    "stars": 3880
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MarkdownEditing",
+                  "description": "Markdown syntax understanding and good color schemes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4361634,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T16:56:01Z",
+                    "owner": "SublimeText-Markdown",
+                    "repo": "MarkdownEditing",
+                    "stars": 3319
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sublime Git",
+                  "description": "Git Integration for Sublime.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2469037,
+                    "language": "Python",
+                    "last_commit": "2024-06-13T13:50:27Z",
+                    "owner": "kemayo",
+                    "repo": "sublime-text-git",
+                    "stars": 2816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Side Bar Enhancments",
+                  "description": "Enhancements to Sublime Text sidebar. Files and folders.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2539060,
+                    "language": "Python",
+                    "last_commit": "2026-07-17T20:30:33Z",
+                    "owner": "titoBouzout",
+                    "repo": "SideBarEnhancements",
+                    "stars": 2221
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sublime Linter",
+                  "description": "Interactive code linting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13782029,
+                    "language": "Python",
+                    "last_commit": "2026-01-23T10:58:16Z",
+                    "owner": "SublimeLinter",
+                    "repo": "SublimeLinter",
+                    "stars": 2040
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jsFormat",
+                  "description": "Javascript formatting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2305374,
+                    "language": "Python",
+                    "last_commit": "2022-04-05T07:25:38Z",
+                    "owner": "jdavisclark",
+                    "repo": "JsFormat",
+                    "stars": 1421
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TrailingSpaces",
+                  "description": "Highlight trailing spaces and delete them in a flash.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2595004,
+                    "language": "Python",
+                    "last_commit": "2023-06-24T20:48:51Z",
+                    "owner": "SublimeText",
+                    "repo": "TrailingSpaces",
+                    "stars": 890
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AdvancedNewFile",
+                  "description": "File creation plugin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2664389,
+                    "language": "Python",
+                    "last_commit": "2024-04-07T20:45:19Z",
+                    "owner": "SublimeText",
+                    "repo": "AdvancedNewFile",
+                    "stars": 833
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RubyTest",
+                  "description": "Plugin for running Ruby tests.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2275142,
+                    "language": "Python",
+                    "last_commit": "2017-08-22T09:18:20Z",
+                    "owner": "maltize",
+                    "repo": "sublime-text-2-ruby-tests",
+                    "stars": 715
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sublime Text 3"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dev Git Repo",
+                  "description": "Github code repository for VS Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41881900,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T12:21:03Z",
+                    "owner": "microsoft",
+                    "repo": "vscode",
+                    "stars": 188923
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Monaco Editor Git Repo",
+                  "description": "Github code repository for underlying browser-based editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60630844,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T18:33:20Z",
+                    "owner": "microsoft",
+                    "repo": "monaco-editor",
+                    "stars": 46554
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visual Studio Code"
+            }
+          ],
+          "description": "Only awesome tools and addons for your favorite editor",
+          "node_type": "group",
+          "title": "Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "git-extras",
+              "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817345,
+                "language": "Shell",
+                "last_commit": "2026-08-17T06:15:49Z",
+                "owner": "tj",
+                "repo": "git-extras",
+                "stars": 18094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-secret",
+              "description": "A bash-tool to store your private data inside a git repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51747445,
+                "language": "Shell",
+                "last_commit": "2026-08-11T14:12:25Z",
+                "owner": "sobolevn",
+                "repo": "git-secret",
+                "stars": 4036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-sweep",
+              "description": "safely removes branches that have been merged into the master",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3739369,
+                "language": "Python",
+                "last_commit": "2023-10-01T23:47:22Z",
+                "owner": "arc90",
+                "repo": "git-sweep",
+                "stars": 2704
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-up",
+              "description": "a better 'git pull'",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329035,
+                "language": "Ruby",
+                "last_commit": "2017-11-07T22:48:59Z",
+                "owner": "aanand",
+                "repo": "git-up",
+                "stars": 2586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-extra-commands",
+              "description": "collected git helper scripts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24296070,
+                "language": "Shell",
+                "last_commit": "2026-08-18T20:23:47Z",
+                "owner": "unixorn",
+                "repo": "git-extra-commands",
+                "stars": 1168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gh",
+              "description": "Fast GitHub command line client (hub port to Go)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9374144,
+                "language": "Go",
+                "last_commit": "2022-10-07T19:07:38Z",
+                "owner": "owenthereal",
+                "repo": "gh",
+                "stars": 717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-github",
+              "description": "Faraz Fallahi maintains a curated list of GitHub & Git resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22354748,
+                "language": null,
+                "last_commit": "2026-03-20T07:40:40Z",
+                "owner": "fffaraz",
+                "repo": "awesome-github",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-semver",
+              "description": "A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37074409,
+                "language": "Shell",
+                "last_commit": "2020-01-21T13:43:47Z",
+                "owner": "markchalloner",
+                "repo": "git-semver",
+                "stars": 395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-it-on",
+              "description": "ZSH plugin, adds a gitit command that opens the current directory on github in your current branch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24404193,
+                "language": "Shell",
+                "last_commit": "2023-01-06T15:37:52Z",
+                "owner": "peterhurford",
+                "repo": "git-it-on.zsh",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scm_breeze",
+              "description": "Streamline your git workflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940286980,
+                "language": "Shell",
+                "last_commit": "2026-01-28T01:48:57Z",
+                "owner": "ndbroadbent",
+                "repo": "scm_breeze",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Tools and addons for making an awesome Git experience",
+          "node_type": "group",
+          "title": "Git"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nanobox",
+              "description": "A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35048479,
+                "language": "Go",
+                "last_commit": "2019-10-21T20:03:10Z",
+                "owner": "nanobox-io",
+                "repo": "nanobox",
+                "stars": 1633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "azk",
+              "description": "a lightweight open source engine to orchestrate development environments",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13003799,
+                "language": "JavaScript",
+                "last_commit": "2019-04-26T07:30:01Z",
+                "owner": "azukiapp",
+                "repo": "azk",
+                "stars": 894
+              }
+            }
+          ],
+          "description": "Tools for orchestrating awesome development environments",
+          "node_type": "group",
+          "title": "Orchestration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reveal.js",
+              "description": "markdown based presentation on your browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1861458,
+                "language": "JavaScript",
+                "last_commit": "2026-05-21T19:20:20Z",
+                "owner": "hakimel",
+                "repo": "reveal.js",
+                "stars": 72150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impress.js",
+              "description": "presentation framework based on the power of CSS3 transforms and transitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3065454,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T07:05:16Z",
+                "owner": "impress",
+                "repo": "impress.js",
+                "stars": 38174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "remark",
+              "description": "markdown based presentation on your browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2553927,
+                "language": "JavaScript",
+                "last_commit": "2024-06-19T09:27:31Z",
+                "owner": "gnab",
+                "repo": "remark",
+                "stars": 13000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebSlides",
+              "description": "Making HTML presentations easy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78369010,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T13:03:52Z",
+                "owner": "webslides",
+                "repo": "WebSlides",
+                "stars": 6322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deck.js",
+              "description": "markdown based presentation on your browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1791673,
+                "language": "JavaScript",
+                "last_commit": "2019-01-28T20:09:58Z",
+                "owner": "imakewebthings",
+                "repo": "deck.js",
+                "stars": 5421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bespoke.js",
+              "description": "DIY Presentation Micro-Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7147058,
+                "language": "JavaScript",
+                "last_commit": "2020-09-08T20:46:55Z",
+                "owner": "bespokejs",
+                "repo": "bespoke",
+                "stars": 4796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vimdeck",
+              "description": "present inside your Vim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12904305,
+                "language": "Ruby",
+                "last_commit": "2021-01-11T19:07:11Z",
+                "owner": "tybenz",
+                "repo": "vimdeck",
+                "stars": 1407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hacker-slides",
+              "description": "Reveal.js based presentation tool",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53195456,
+                "language": "Go",
+                "last_commit": "2021-05-12T00:35:01Z",
+                "owner": "msoedov",
+                "repo": "hacker-slides",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mithril-slides",
+              "description": "A Keynote-inspired presentation app written with Mithril",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33370721,
+                "language": "HTML",
+                "last_commit": "2018-08-26T05:16:26Z",
+                "owner": "wulab",
+                "repo": "mithril-slides",
+                "stars": 24
+              }
+            }
+          ],
+          "description": "Tools for presenting your work",
+          "node_type": "group",
+          "title": "Presentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oh-my-zsh",
+              "description": "A community driven framework for managing zsh configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291137,
+                "language": "Shell",
+                "last_commit": "2026-08-17T21:45:08Z",
+                "owner": "ohmyzsh",
+                "repo": "ohmyzsh",
+                "stars": 189264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shellcheck",
+              "description": "Lint for shell. Will find deprecated and/or dangerous usage in shell scripts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6731432,
+                "language": "Haskell",
+                "last_commit": "2026-08-04T08:32:46Z",
+                "owner": "koalaman",
+                "repo": "shellcheck",
+                "stars": 39893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fish-shell",
+              "description": "The user-friendly command line shell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4279682,
+                "language": "Rust",
+                "last_commit": "2026-08-17T02:22:22Z",
+                "owner": "fish-shell",
+                "repo": "fish-shell",
+                "stars": 34034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-zsh-plugins",
+              "description": "List of zsh plugins usable with zgen and other oh-my-zsh compatible zsh frameworks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24878875,
+                "language": "Shell",
+                "last_commit": "2026-08-16T14:54:02Z",
+                "owner": "unixorn",
+                "repo": "awesome-zsh-plugins",
+                "stars": 17943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oh-my-fish",
+              "description": "Framework for managing your fish shell configuration inspired by oh-my-zsh.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41871628,
+                "language": "Shell",
+                "last_commit": "2026-05-19T18:17:02Z",
+                "owner": "oh-my-fish",
+                "repo": "oh-my-fish",
+                "stars": 11374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgen",
+              "description": "Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26930983,
+                "language": "Shell",
+                "last_commit": "2021-07-21T03:56:30Z",
+                "owner": "tarjoilija",
+                "repo": "zgen",
+                "stars": 1528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zsh quickstart kit",
+              "description": "Quick intro for getting set up with zsh and zgen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17031094,
+                "language": "Shell",
+                "last_commit": "2026-08-17T22:35:45Z",
+                "owner": "unixorn",
+                "repo": "zsh-quickstart-kit",
+                "stars": 908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hss",
+              "description": "Never type the annoying ssh commands again.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105174855,
+                "language": "C",
+                "last_commit": "2025-10-17T01:27:47Z",
+                "owner": "six-ddc",
+                "repo": "hss",
+                "stars": 380
+              }
+            }
+          ],
+          "description": "Tools for having an awesome shell environment",
+          "node_type": "group",
+          "title": "Shell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ripgrep",
+              "description": "Faster than grep, written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53631945,
+                "language": "Rust",
+                "last_commit": "2026-08-04T13:59:44Z",
+                "owner": "BurntSushi",
+                "repo": "ripgrep",
+                "stars": 67394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ag",
+              "description": "A C based code-searching tool similar to ack, but faster",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2810455,
+                "language": "C",
+                "last_commit": "2024-06-16T19:37:41Z",
+                "owner": "ggreer",
+                "repo": "the_silver_searcher",
+                "stars": 27103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "peco",
+              "description": "interactive filtering, like interactive Grep",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20553267,
+                "language": "Go",
+                "last_commit": "2026-08-01T10:02:37Z",
+                "owner": "peco",
+                "repo": "peco",
+                "stars": 7909
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ack",
+              "description": "the Perl based better-than-grep tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1305488,
+                "language": "Perl",
+                "last_commit": "2019-03-19T14:41:58Z",
+                "owner": "beyondgrep",
+                "repo": "ack2",
+                "stars": 1466
+              }
+            }
+          ],
+          "description": "Tools for working with text files - search, replace, processing",
+          "node_type": "group",
+          "title": "Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oh-my-zsh",
+              "description": "the incredible ZSH addon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291137,
+                "language": "Shell",
+                "last_commit": "2026-08-17T21:45:08Z",
+                "owner": "ohmyzsh",
+                "repo": "ohmyzsh",
+                "stars": 189264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zoxide",
+              "description": "A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245166720,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:40:09Z",
+                "owner": "ajeetdsouza",
+                "repo": "zoxide",
+                "stars": 38719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autojump",
+              "description": "remembers your folders and jump to them based on partial recall (e.g. will jump to .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107258,
+                "language": "Python",
+                "last_commit": "2025-02-27T16:03:23Z",
+                "owner": "wting",
+                "repo": "autojump",
+                "stars": 16959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fasd",
+              "description": "Command-line productivity booster, offers quick access to files and directories.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2938132,
+                "language": "Shell",
+                "last_commit": "2020-06-04T18:44:10Z",
+                "owner": "clvv",
+                "repo": "fasd",
+                "stars": 5907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hss",
+              "description": "Never type the annoying ssh commands again.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105174855,
+                "language": "C",
+                "last_commit": "2025-10-17T01:27:47Z",
+                "owner": "six-ddc",
+                "repo": "hss",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "freshenv",
+              "description": "Provision, share, manage local and cloud developer environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439973330,
+                "language": "Python",
+                "last_commit": "2024-09-30T19:10:21Z",
+                "owner": "raiyanyahya",
+                "repo": "freshenv",
+                "stars": 177
+              }
+            }
+          ],
+          "description": "Tools and addons for terminal and terminal work",
+          "node_type": "group",
+          "title": "Terminal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "watchman",
+              "description": "Facebook's better - note it works as a service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6930489,
+                "language": "C++",
+                "last_commit": "2026-08-19T02:08:24Z",
+                "owner": "facebook",
+                "repo": "watchman",
+                "stars": 13682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guard",
+              "description": "FS watch tool with a huge ecosystem of plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812610,
+                "language": "Ruby",
+                "last_commit": "2026-07-16T07:46:14Z",
+                "owner": "guard",
+                "repo": "guard",
+                "stars": 6441
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fswatch",
+              "description": "a watch tool which will emit FS events and you can run commands on demand with. Note - too.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236537,
+                "language": "C++",
+                "last_commit": "2026-07-22T17:12:54Z",
+                "owner": "emcrisostomo",
+                "repo": "fswatch",
+                "stars": 5583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ergo",
+              "description": "The management of multiple local services running over different ports made easy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100814404,
+                "language": "Go",
+                "last_commit": "2025-02-02T13:57:13Z",
+                "owner": "cristianoliveira",
+                "repo": "ergo",
+                "stars": 651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gebug",
+              "description": "A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281127754,
+                "language": "Go",
+                "last_commit": "2026-07-03T15:56:26Z",
+                "owner": "moshebe",
+                "repo": "gebug",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zappr",
+              "description": "GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47964688,
+                "language": "JavaScript",
+                "last_commit": "2024-08-27T19:14:58Z",
+                "owner": "zalando",
+                "repo": "zappr",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prodmodel",
+              "description": "Build tool for data science pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176159274,
+                "language": "Python",
+                "last_commit": "2026-04-13T17:00:28Z",
+                "owner": "prodmodel",
+                "repo": "prodmodel",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "LiveReload",
+              "description": "FS watch and preprocessor as a desktop app for and with complementary browser extensions",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "guard-livereload",
+                  "description": "Guard plugin compatible with LiveReload's browser extensions",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 976103,
+                    "language": "JavaScript",
+                    "last_commit": "2022-11-07T16:11:15Z",
+                    "owner": "guard",
+                    "repo": "guard-livereload",
+                    "stars": 2110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "simplehttp",
+                  "description": "Fastest and simplest way to start serving a local directory over http.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171717969,
+                    "language": "Go",
+                    "last_commit": "2023-03-06T03:28:00Z",
+                    "owner": "snwfdhmp",
+                    "repo": "simplehttp",
+                    "stars": 76
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Tools and addons which improve your daily workflow with code",
+          "node_type": "group",
+          "title": "Workflow"
         }
       ],
-      "title": "Workflow"
+      "title": "Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:02:51.227Z",
+    "last_updated": "2026-08-19T12:25:09.185Z",
     "original_repository": "jondot/awesome-devenv",
+    "original_repository_id": 21687084,
     "original_repository_sha": "c67721d2d62f64d50e8fc39a058ea27a43181d4f",
     "enhanced_repository": "enhansome/enhansome-devenv",
     "enhanced_repository_description": null,
