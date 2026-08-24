@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,105 | 🐛 215 | 🌐 Go | 📅 2026-08-21, which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,790 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
+Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,109 | 🐛 215 | 🌐 Go | 📅 2026-08-21, which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,798 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
 
 ### Contributing
 
@@ -10,8 +10,8 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,105 | �
 
 But in short:
 
-* List is alphabetically sorted
 * If you think an item shouldn't be here [open an issue](https://github.com/jondot/awesome-devenv/issues/new) ⭐ 3,334 | 🐛 41 | 📅 2024-07-29
+* List is alphabetically sorted
 
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) ⭐ 3,334 | 🐛 41 | 📅 2024-07-29 :)
 
@@ -55,7 +55,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 *Tools to benchmark your code or services*
 
 * [wrk](https://github.com/wg/wrk) ⭐ 40,391 | 🐛 203 | 🌐 C | 📅 2023-12-30
-* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,162 | 🐛 122 | 🌐 Go | 📅 2026-02-16
+* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,163 | 🐛 122 | 🌐 Go | 📅 2026-02-16
 * [boom](https://github.com/rakyll/boom) ⚠️ Archived
 * [phantomas](https://github.com/macbre/phantomas) ⭐ 2,260 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-17 - website perf evaluation tool
 * [redis-faina](https://github.com/Instagram/redis-faina) ⚠️ Archived Instagram's Redis counter/timing stats based on the MONITOR command
@@ -73,7 +73,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for checking diagnosing your system while you work*
 
-* [glances](https://github.com/nicolargo/glances) ⭐ 33,416 | 🐛 107 | 🌐 Python | 📅 2026-08-23
+* [glances](https://github.com/nicolargo/glances) ⭐ 33,417 | 🐛 107 | 🌐 Python | 📅 2026-08-23
 * [gtop](https://github.com/aksakalli/gtop) ⭐ 9,928 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-06
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
@@ -145,7 +145,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ### Visual Studio Code
 
-* [Dev Git Repo](https://github.com/Microsoft/vscode) ⭐ 189,365 | 🐛 20,041 | 🌐 TypeScript | 📅 2026-08-24 - Github code repository for VS Code
+* [Dev Git Repo](https://github.com/Microsoft/vscode) ⭐ 189,367 | 🐛 20,054 | 🌐 TypeScript | 📅 2026-08-24 - Github code repository for VS Code
 * [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) ⭐ 46,582 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-18 - Github code repository for underlying browser-based editor
 
 #### Extensions
@@ -175,8 +175,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Useful tools that cannot find a home in other categories*
 
-* [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) ⭐ 3,544 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based development environment for machine learning and data science.
+* [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
 * [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 
@@ -197,7 +197,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for presenting your work*
 
-* [reveal.js](https://github.com/hakimel/reveal.js/) ⭐ 72,169 | 🐛 907 | 🌐 JavaScript | 📅 2026-08-24 - markdown based presentation on your browser
+* [reveal.js](https://github.com/hakimel/reveal.js/) ⭐ 72,170 | 🐛 907 | 🌐 JavaScript | 📅 2026-08-24 - markdown based presentation on your browser
 * [impress.js](https://github.com/impress/impress.js) ⭐ 38,168 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23 - presentation framework based on the power of CSS3 transforms and transitions
 * [remark](https://github.com/gnab/remark) ⭐ 12,999 | 🐛 181 | 🌐 JavaScript | 📅 2024-06-19 - markdown based presentation on your browser
 * [WebSlides](https://github.com/jlantunez/webslides) ⭐ 6,317 | 🐛 78 | 🌐 JavaScript | 📅 2022-12-10 - Making HTML presentations easy
@@ -211,10 +211,10 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for having an awesome shell environment*
 
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 189,345 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - A community driven framework for managing zsh configuration.
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 189,346 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - A community driven framework for managing zsh configuration.
 * [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 39,915 | 🐛 1,139 | 🌐 Haskell | 📅 2026-08-04 - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
 * [fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 34,056 | 🐛 568 | 🌐 Rust | 📅 2026-08-23 - The user-friendly command line shell
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,966 | 🐛 9 | 🌐 Shell | 📅 2026-08-21 - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,528 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 189,345 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 compatible zsh frameworks
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,965 | 🐛 9 | 🌐 Shell | 📅 2026-08-21 - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,528 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 189,346 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 compatible zsh frameworks
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,376 | 🐛 0 | 🌐 Shell | 📅 2026-05-19 - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,528 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) ⭐ 909 | 🐛 16 | 🌐 Shell | 📅 2026-08-22 - Quick intro for getting set up with zsh and zgen
@@ -225,7 +225,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for working with text files - search, replace, processing*
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,553 | 🐛 180 | 🌐 Rust | 📅 2026-08-04 - Faster than grep, written in Rust
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,554 | 🐛 180 | 🌐 Rust | 📅 2026-08-04 - Faster than grep, written in Rust
 * [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,104 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A C based code-searching tool similar to ack, but faster
 * [peco](https://github.com/peco/peco) ⭐ 7,911 | 🐛 8 | 🌐 Go | 📅 2026-08-22 - interactive filtering, like interactive Grep
 * [ack](https://github.com/petdance/ack2) ⭐ 1,466 | 🐛 9 | 🌐 Perl | 📅 2019-03-19 - the Perl based
@@ -235,9 +235,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools and addons for terminal and terminal work*
 
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,345 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - the
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,346 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - the
   incredible ZSH addon.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,805 | 🐛 136 | 🌐 Rust | 📅 2026-08-24 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,806 | 🐛 136 | 🌐 Rust | 📅 2026-08-24 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 * [autojump](https://github.com/joelthelion/autojump) ⭐ 16,962 | 🐛 231 | 🌐 Python | 📅 2025-02-27 - remembers your
   folders and jump to them based on partial recall (e.g. `j proj` will jump
   to `/home/Users/yourself/projects`.

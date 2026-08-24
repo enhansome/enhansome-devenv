@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": "But in short:\nMany thanks to everyone on the contributor list :)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guidelines",
+          "description": "tweaked and adapted from - thanks!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21687084,
+            "language": null,
+            "last_commit": "2024-07-29T13:08:35Z",
+            "owner": "jondot",
+            "repo": "awesome-devenv",
+            "stars": 3334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "If you think an item shouldn't be here open an issue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21687084,
+            "language": null,
+            "last_commit": "2024-07-29T13:08:35Z",
+            "owner": "jondot",
+            "repo": "awesome-devenv",
+            "stars": 3334
+          }
+        }
+      ],
+      "title": "Contributing"
+    },
+    {
       "description": "Note: for an OS specific tool, please do your best to mark with",
       "items": [
         {
@@ -69,7 +105,7 @@
                 "last_commit": "2026-02-16T14:07:07Z",
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25162
+                "stars": 25163
               }
             },
             {
@@ -126,6 +162,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "s3cmd",
+              "description": "the S3 CLI tool for Amazon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1857825,
+                "language": "Python",
+                "last_commit": "2025-10-22T23:26:17Z",
+                "owner": "s3tools",
+                "repo": "s3cmd",
+                "stars": 4905
+              }
+            }
+          ],
+          "description": "Tools for handling online and offline data",
+          "node_type": "group",
+          "title": "Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "glances",
               "description": null,
               "children": [],
@@ -136,7 +194,7 @@
                 "last_commit": "2026-08-23T15:59:11Z",
                 "owner": "nicolargo",
                 "repo": "glances",
-                "stars": 33416
+                "stars": 33417
               }
             },
             {
@@ -195,6 +253,28 @@
           "description": "Tools for improving and hacking around with your vanilla desktop",
           "node_type": "group",
           "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Log4brains",
+              "description": "Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295764802,
+                "language": "TypeScript",
+                "last_commit": "2024-12-17T16:51:30Z",
+                "owner": "thomvaill",
+                "repo": "log4brains",
+                "stars": 1566
+              }
+            }
+          ],
+          "description": "Tools to document your project",
+          "node_type": "group",
+          "title": "Documentation"
         },
         {
           "children": [
@@ -620,6 +700,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "keymap",
+                  "description": "a hybrid Vim/ReSharper/Intellij keymap",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14123563,
+                    "language": "Shell",
+                    "last_commit": "2014-08-03T15:18:56Z",
+                    "owner": "jondot",
+                    "repo": "keymaps",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Intellij"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Dev Git Repo",
                   "description": "Github code repository for VS Code",
                   "children": [],
@@ -627,10 +729,10 @@
                     "archived": false,
                     "id": 41881900,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T12:58:43Z",
+                    "last_commit": "2026-08-24T13:36:10Z",
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 189365
+                    "stars": 189367
                   }
                 },
                 {
@@ -819,6 +921,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ML Workspace",
+              "description": "All-in-one web-based development environment for machine learning and data science.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188880197,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-26T07:39:39Z",
+                "owner": "ml-tooling",
+                "repo": "ml-workspace",
+                "stars": 3544
+              }
+            }
+          ],
+          "description": "Useful tools that cannot find a home in other categories",
+          "node_type": "group",
+          "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Nanobox",
               "description": "A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.",
               "children": [],
@@ -866,7 +990,7 @@
                 "last_commit": "2026-08-24T09:06:06Z",
                 "owner": "hakimel",
                 "repo": "reveal.js",
-                "stars": 72169
+                "stars": 72170
               }
             },
             {
@@ -1008,7 +1132,7 @@
                 "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189345
+                "stars": 189346
               }
             },
             {
@@ -1053,7 +1177,7 @@
                 "last_commit": "2026-08-21T15:03:15Z",
                 "owner": "unixorn",
                 "repo": "awesome-zsh-plugins",
-                "stars": 17966
+                "stars": 17965
               }
             },
             {
@@ -1135,7 +1259,7 @@
                 "last_commit": "2026-08-04T13:59:44Z",
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 67553
+                "stars": 67554
               }
             },
             {
@@ -1202,7 +1326,7 @@
                 "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189345
+                "stars": 189346
               }
             },
             {
@@ -1217,7 +1341,7 @@
                 "last_commit": "2026-08-24T02:58:01Z",
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 38805
+                "stars": 38806
               }
             },
             {
@@ -1439,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:07:07.509Z",
+    "last_updated": "2026-08-24T14:02:10.490Z",
     "original_repository": "jondot/awesome-devenv",
     "original_repository_id": 21687084,
     "original_repository_sha": "c67721d2d62f64d50e8fc39a058ea27a43181d4f",
