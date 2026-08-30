@@ -148,7 +148,7 @@
                 "open_issues": 122,
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25169,
+                "stars": 25171,
                 "topics": [
                   "benchmarking",
                   "go",
@@ -261,7 +261,7 @@
                 "open_issues": 311,
                 "owner": "s3tools",
                 "repo": "s3cmd",
-                "stars": 4906,
+                "stars": 4905,
                 "topics": [
                   "backup",
                   "cli",
@@ -293,11 +293,11 @@
                 "id": 2909429,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T14:36:24Z",
-                "open_issues": 100,
+                "last_commit": "2026-08-30T16:06:26Z",
+                "open_issues": 102,
                 "owner": "nicolargo",
                 "repo": "glances",
-                "stars": 33473,
+                "stars": 33479,
                 "topics": [
                   "monitoring",
                   "multi-platform",
@@ -453,7 +453,7 @@
                 "open_issues": 186,
                 "owner": "mathiasbynens",
                 "repo": "dotfiles",
-                "stars": 31460,
+                "stars": 31461,
                 "topics": [
                   "bash",
                   "dotfiles",
@@ -520,7 +520,7 @@
                 "id": 1921317,
                 "language": "Vim Script",
                 "license": null,
-                "last_commit": "2026-08-29T14:52:41Z",
+                "last_commit": "2026-08-30T16:34:29Z",
                 "open_issues": 2,
                 "owner": "paulmillr",
                 "repo": "dotfiles",
@@ -782,7 +782,7 @@
                     "open_issues": 242,
                     "owner": "powerline",
                     "repo": "powerline",
-                    "stars": 14805,
+                    "stars": 14806,
                     "topics": [
                       "bash",
                       "fish",
@@ -915,7 +915,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-21T16:00:28Z",
-                    "open_issues": 46,
+                    "open_issues": 47,
                     "owner": "SublimeText-Markdown",
                     "repo": "MarkdownEditing",
                     "stars": 3323,
@@ -965,7 +965,7 @@
                     "open_issues": 8,
                     "owner": "titoBouzout",
                     "repo": "SideBarEnhancements",
-                    "stars": 2222,
+                    "stars": 2221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:13:11.961Z"
@@ -1135,11 +1135,11 @@
                     "id": 41881900,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T13:44:54Z",
-                    "open_issues": 20196,
+                    "last_commit": "2026-08-30T15:24:55Z",
+                    "open_issues": 20232,
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 189771,
+                    "stars": 190056,
                     "topics": [
                       "editor",
                       "electron",
@@ -1166,7 +1166,7 @@
                     "open_issues": 848,
                     "owner": "microsoft",
                     "repo": "monaco-editor",
-                    "stars": 46609,
+                    "stars": 46620,
                     "topics": [
                       "browser",
                       "editor",
@@ -1202,10 +1202,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-27T05:59:29Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "tj",
                 "repo": "git-extras",
-                "stars": 18097,
+                "stars": 18099,
                 "topics": [
                   "git"
                 ]
@@ -1556,7 +1556,7 @@
                 "open_issues": 910,
                 "owner": "hakimel",
                 "repo": "reveal.js",
-                "stars": 72233,
+                "stars": 72235,
                 "topics": [
                   "presentations",
                   "slides",
@@ -1581,7 +1581,7 @@
                 "open_issues": 59,
                 "owner": "impress",
                 "repo": "impress.js",
-                "stars": 38169,
+                "stars": 38170,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:11.961Z"
@@ -1782,11 +1782,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:43:45Z",
-                "open_issues": 574,
+                "last_commit": "2026-08-30T12:53:37Z",
+                "open_issues": 582,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189439,
+                "stars": 189452,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1823,7 +1823,7 @@
                 "open_issues": 1138,
                 "owner": "koalaman",
                 "repo": "shellcheck",
-                "stars": 39959,
+                "stars": 39962,
                 "topics": [
                   "bash",
                   "developer-tools",
@@ -1851,7 +1851,7 @@
                 "open_issues": 567,
                 "owner": "fish-shell",
                 "repo": "fish-shell",
-                "stars": 34085,
+                "stars": 34097,
                 "topics": [
                   "fish",
                   "rust",
@@ -1873,11 +1873,11 @@
                 "id": 24878875,
                 "language": "Shell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T04:19:12Z",
+                "last_commit": "2026-08-29T21:43:42Z",
                 "open_issues": 6,
                 "owner": "unixorn",
                 "repo": "awesome-zsh-plugins",
-                "stars": 17978,
+                "stars": 17980,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1908,8 +1908,8 @@
                 "id": 41871628,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-05-19T18:17:02Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-30T15:38:33Z",
+                "open_issues": 6,
                 "owner": "oh-my-fish",
                 "repo": "oh-my-fish",
                 "stars": 11381,
@@ -1965,7 +1965,7 @@
                 "open_issues": 16,
                 "owner": "unixorn",
                 "repo": "zsh-quickstart-kit",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "dotfiles",
                   "hacktoberfest",
@@ -2038,7 +2038,7 @@
                 "open_issues": 183,
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 67693,
+                "stars": 67715,
                 "topics": [
                   "cli",
                   "command-line",
@@ -2070,7 +2070,7 @@
                 "open_issues": 564,
                 "owner": "ggreer",
                 "repo": "the_silver_searcher",
-                "stars": 27109,
+                "stars": 27110,
                 "topics": [
                   "ag",
                   "c",
@@ -2148,11 +2148,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:43:45Z",
-                "open_issues": 574,
+                "last_commit": "2026-08-30T12:53:37Z",
+                "open_issues": 582,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189439,
+                "stars": 189452,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -2186,10 +2186,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:59:29Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 39015,
+                "stars": 39037,
                 "topics": [
                   "autojump",
                   "bash",
@@ -2339,11 +2339,11 @@
                 "id": 6930489,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-29T16:36:33Z",
+                "last_commit": "2026-08-30T16:35:32Z",
                 "open_issues": 258,
                 "owner": "facebook",
                 "repo": "watchman",
-                "stars": 13696,
+                "stars": 13697,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:11.961Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:39:46.554Z",
+    "last_updated": "2026-08-30T16:35:44.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
