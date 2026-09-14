@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "jondot",
             "repo": "awesome-devenv",
-            "stars": 3343,
+            "stars": 3344,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:11.961Z"
@@ -40,7 +40,7 @@
             "open_issues": 42,
             "owner": "jondot",
             "repo": "awesome-devenv",
-            "stars": 3343,
+            "stars": 3344,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:11.961Z"
@@ -148,7 +148,7 @@
                 "open_issues": 122,
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25188,
+                "stars": 25187,
                 "topics": [
                   "benchmarking",
                   "go",
@@ -191,7 +191,7 @@
                 "id": 4939243,
                 "language": "JavaScript",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-31T15:53:33Z",
+                "last_commit": "2026-09-14T15:53:34Z",
                 "open_issues": 66,
                 "owner": "macbre",
                 "repo": "phantomas",
@@ -261,7 +261,7 @@
                 "open_issues": 311,
                 "owner": "s3tools",
                 "repo": "s3cmd",
-                "stars": 4908,
+                "stars": 4907,
                 "topics": [
                   "backup",
                   "cli",
@@ -293,11 +293,11 @@
                 "id": 2909429,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T11:09:59Z",
+                "last_commit": "2026-09-13T16:45:37Z",
                 "open_issues": 102,
                 "owner": "nicolargo",
                 "repo": "glances",
-                "stars": 33568,
+                "stars": 33573,
                 "topics": [
                   "monitoring",
                   "multi-platform",
@@ -411,7 +411,7 @@
                 "open_issues": 57,
                 "owner": "thomvaill",
                 "repo": "log4brains",
-                "stars": 1588,
+                "stars": 1589,
                 "topics": [
                   "adr",
                   "architecture",
@@ -453,7 +453,7 @@
                 "open_issues": 185,
                 "owner": "mathiasbynens",
                 "repo": "dotfiles",
-                "stars": 31471,
+                "stars": 31474,
                 "topics": [
                   "bash",
                   "dotfiles",
@@ -478,7 +478,7 @@
                 "open_issues": 18,
                 "owner": "thoughtbot",
                 "repo": "dotfiles",
-                "stars": 8173,
+                "stars": 8174,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:11.961Z"
@@ -499,7 +499,7 @@
                 "open_issues": 33,
                 "owner": "holman",
                 "repo": "dotfiles",
-                "stars": 7770,
+                "stars": 7771,
                 "topics": [
                   "dotfiles",
                   "shell",
@@ -1135,11 +1135,11 @@
                     "id": 41881900,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T16:04:59Z",
-                    "open_issues": 21024,
+                    "last_commit": "2026-09-14T18:01:41Z",
+                    "open_issues": 21093,
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 192457,
+                    "stars": 192529,
                     "topics": [
                       "editor",
                       "electron",
@@ -1162,11 +1162,11 @@
                     "id": 60630844,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T02:53:45Z",
-                    "open_issues": 858,
+                    "last_commit": "2026-09-13T18:23:00Z",
+                    "open_issues": 859,
                     "owner": "microsoft",
                     "repo": "monaco-editor",
-                    "stars": 46729,
+                    "stars": 46736,
                     "topics": [
                       "browser",
                       "editor",
@@ -1205,7 +1205,7 @@
                 "open_issues": 97,
                 "owner": "tj",
                 "repo": "git-extras",
-                "stars": 18101,
+                "stars": 18103,
                 "topics": [
                   "git"
                 ]
@@ -1256,7 +1256,7 @@
                 "open_issues": 45,
                 "owner": "arc90",
                 "repo": "git-sweep",
-                "stars": 2709,
+                "stars": 2710,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:13:11.961Z"
@@ -1294,8 +1294,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T10:49:13Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-14T09:43:20Z",
+                "open_issues": 7,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1170,
@@ -1556,7 +1556,7 @@
                 "open_issues": 915,
                 "owner": "hakimel",
                 "repo": "reveal.js",
-                "stars": 72292,
+                "stars": 72289,
                 "topics": [
                   "presentations",
                   "slides",
@@ -1602,7 +1602,7 @@
                 "open_issues": 181,
                 "owner": "gnab",
                 "repo": "remark",
-                "stars": 13000,
+                "stars": 13001,
                 "topics": [
                   "html",
                   "javascript",
@@ -1782,11 +1782,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-13T12:53:44Z",
-                "open_issues": 337,
+                "last_commit": "2026-09-14T12:57:08Z",
+                "open_issues": 332,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189705,
+                "stars": 189707,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1823,7 +1823,7 @@
                 "open_issues": 1140,
                 "owner": "koalaman",
                 "repo": "shellcheck",
-                "stars": 40033,
+                "stars": 40035,
                 "topics": [
                   "bash",
                   "developer-tools",
@@ -1847,11 +1847,11 @@
                 "id": 4279682,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T14:52:19Z",
-                "open_issues": 573,
+                "last_commit": "2026-09-14T15:23:00Z",
+                "open_issues": 561,
                 "owner": "fish-shell",
                 "repo": "fish-shell",
-                "stars": 34187,
+                "stars": 34199,
                 "topics": [
                   "fish",
                   "rust",
@@ -1877,7 +1877,7 @@
                 "open_issues": 6,
                 "owner": "unixorn",
                 "repo": "awesome-zsh-plugins",
-                "stars": 18000,
+                "stars": 18003,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1912,7 +1912,7 @@
                 "open_issues": 4,
                 "owner": "oh-my-fish",
                 "repo": "oh-my-fish",
-                "stars": 11390,
+                "stars": 11391,
                 "topics": [
                   "fish",
                   "fishshell",
@@ -2035,10 +2035,10 @@
                 "language": "Rust",
                 "license": "Unlicense",
                 "last_commit": "2026-08-04T13:59:44Z",
-                "open_issues": 194,
+                "open_issues": 195,
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 68226,
+                "stars": 68258,
                 "topics": [
                   "cli",
                   "command-line",
@@ -2070,7 +2070,7 @@
                 "open_issues": 563,
                 "owner": "ggreer",
                 "repo": "the_silver_searcher",
-                "stars": 27119,
+                "stars": 27121,
                 "topics": [
                   "ag",
                   "c",
@@ -2148,11 +2148,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-13T12:53:44Z",
-                "open_issues": 337,
+                "last_commit": "2026-09-14T12:57:08Z",
+                "open_issues": 332,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189705,
+                "stars": 189707,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -2189,7 +2189,7 @@
                 "open_issues": 146,
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 39439,
+                "stars": 39459,
                 "topics": [
                   "autojump",
                   "bash",
@@ -2231,7 +2231,7 @@
                 "open_issues": 231,
                 "owner": "wting",
                 "repo": "autojump",
-                "stars": 16959,
+                "stars": 16960,
                 "topics": [
                   "autojump",
                   "command-line-tool",
@@ -2339,7 +2339,7 @@
                 "id": 6930489,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-12T23:34:45Z",
+                "last_commit": "2026-09-14T16:35:59Z",
                 "open_issues": 258,
                 "owner": "facebook",
                 "repo": "watchman",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:08:52.405Z",
+    "last_updated": "2026-09-14T18:03:02.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
@@ -2594,7 +2594,7 @@
       "open_issues": 42,
       "owner": "jondot",
       "repo": "awesome-devenv",
-      "stars": 3343,
+      "stars": 3344,
       "topics": []
     },
     "original_repository_sha": "c67721d2d62f64d50e8fc39a058ea27a43181d4f",
