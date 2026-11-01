@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,327 | 🐛 95 | 🌐 Go | 📅 2026-10-30, which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,542 | 🐛 22 | 🌐 Python | 📅 2026-10-31.
+Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,493 | 🐛 100 | 🌐 Go | 📅 2026-10-30, which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,764 | 🐛 24 | 🌐 Python | 📅 2026-11-01.
 
 ### Contributing
 
@@ -54,8 +54,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools to benchmark your code or services*
 
-* [wrk](https://github.com/wg/wrk) ⭐ 40,424 | 🐛 203 | 🌐 C | 📅 2023-12-30
-* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,234 | 🐛 125 | 🌐 Go | 📅 2026-09-24
+* [wrk](https://github.com/wg/wrk) ⭐ 40,425 | 🐛 203 | 🌐 C | 📅 2023-12-30
+* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,232 | 🐛 125 | 🌐 Go | 📅 2026-09-24
 * [boom](https://github.com/rakyll/boom) ⚠️ Archived
 * [phantomas](https://github.com/macbre/phantomas) ⭐ 2,263 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-26 - website perf evaluation tool
 * [redis-faina](https://github.com/Instagram/redis-faina) ⚠️ Archived Instagram's Redis counter/timing stats based on the MONITOR command
@@ -73,7 +73,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for checking diagnosing your system while you work*
 
-* [glances](https://github.com/nicolargo/glances) ⭐ 33,882 | 🐛 113 | 🌐 Python | 📅 2026-10-31
+* [glances](https://github.com/nicolargo/glances) ⭐ 33,889 | 🐛 114 | 🌐 Python | 📅 2026-11-01
 * [gtop](https://github.com/aksakalli/gtop) ⭐ 9,934 | 🐛 41 | 🌐 JavaScript | 📅 2025-11-06
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
@@ -95,7 +95,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ## Dotfiles
 
-* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) ⭐ 31,507 | 🐛 185 | 🌐 Shell | 📅 2024-08-05 - .files, including \~/.osx — sensible hacker defaults for OS X
+* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) ⭐ 31,508 | 🐛 185 | 🌐 Shell | 📅 2024-08-05 - .files, including \~/.osx — sensible hacker defaults for OS X
 * [Thoughtbot's](https://github.com/thoughtbot/dotfiles) ⭐ 8,169 | 🐛 18 | 🌐 Shell | 📅 2026-09-03 - A set of vim, zsh, git, and tmux configuration files
 * [Zach Holman's](https://github.com/holman/dotfiles) ⭐ 7,777 | 🐛 31 | 🌐 Shell | 📅 2026-06-25 - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
 * [Paul Miller's](https://github.com/paulmillr/dotfiles) ⭐ 1,243 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-09 - Colourful & robust OS X configuration files and utilities
@@ -119,7 +119,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ### Vim
 
-* [Powerline](https://github.com/Lokaltog/powerline) ⭐ 14,836 | 🐛 242 | 🌐 Python | 📅 2026-03-11 - improved status bar for your buffers.
+* [Powerline](https://github.com/Lokaltog/powerline) ⭐ 14,838 | 🐛 242 | 🌐 Python | 📅 2026-03-11 - improved status bar for your buffers.
 * [snipmate](https://github.com/garbas/vim-snipmate) ⭐ 2,018 | 🐛 17 | 🌐 Vim Script | 📅 2025-05-14 - textual snippets compatiable with Textmate snippets.
 * [Completor](https://github.com/maralla/completor.vim) ⭐ 1,315 | 🐛 74 | 🌐 Python | 📅 2026-10-10 - async autocomplete with support for omni and semantic completion.
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
@@ -128,7 +128,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,210 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28
 * [Git Gutter](https://github.com/jisaacks/GitGutter) ⭐ 3,879 | 🐛 11 | 🌐 Python | 📅 2026-03-21 - display changed/added lines in the margin of the editor window.
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,340 | 🐛 50 | 🌐 Python | 📅 2026-10-11 - Markdown syntax understanding and good color schemes.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,341 | 🐛 49 | 🌐 Python | 📅 2026-10-11 - Markdown syntax understanding and good color schemes.
 * [Sublime Git](https://github.com/kemayo/sublime-text-git) ⭐ 2,813 | 🐛 209 | 🌐 Python | 📅 2024-06-13 - Git Integration for Sublime.
 * [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,223 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar. Files and folders.
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter3/) ⭐ 2,040 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting.
@@ -145,8 +145,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ### Visual Studio Code
 
-* [Dev Git Repo](https://github.com/Microsoft/vscode) ⭐ 194,413 | 🐛 21,937 | 🌐 TypeScript | 📅 2026-10-31 - Github code repository for VS Code
-* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) ⭐ 46,926 | 🐛 894 | 🌐 JavaScript | 📅 2026-10-31 - Github code repository for underlying browser-based editor
+* [Dev Git Repo](https://github.com/Microsoft/vscode) ⭐ 194,454 | 🐛 21,974 | 🌐 TypeScript | 📅 2026-11-01 - Github code repository for VS Code
+* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) ⭐ 46,934 | 🐛 894 | 🌐 JavaScript | 📅 2026-10-31 - Github code repository for underlying browser-based editor
 
 #### Extensions
 
@@ -160,9 +160,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 * [git-extras](https://github.com/visionmedia/git-extras) ⭐ 18,126 | 🐛 92 | 🌐 Shell | 📅 2026-10-08 - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,055 | 🐛 152 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository.
-* [git-sweep](https://github.com/arc90/git-sweep) ⭐ 2,725 | 🐛 45 | 🌐 Python | 📅 2023-10-01 - safely removes branches that have been merged into the master
+* [git-sweep](https://github.com/arc90/git-sweep) ⭐ 2,724 | 🐛 45 | 🌐 Python | 📅 2023-10-01 - safely removes branches that have been merged into the master
 * [git-up](https://github.com/aanand/git-up) ⭐ 2,584 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07 - a better 'git pull'
-* [git-extra-commands](https://github.com/unixorn/git-extra-commands) ⭐ 1,174 | 🐛 3 | 🌐 Shell | 📅 2026-10-27 - collected git helper scripts
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) ⭐ 1,175 | 🐛 3 | 🌐 Shell | 📅 2026-10-27 - collected git helper scripts
 * [gh](https://github.com/jingweno/gh) ⭐ 717 | 🐛 15 | 🌐 Go | 📅 2022-10-07 - Fast GitHub command line client (hub port to Go)
 * [awesome-github](https://github.com/fffaraz/awesome-github) ⚠️ Archived - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [git-semver](https://github.com/markchalloner/git-semver) ⭐ 394 | 🐛 12 | 🌐 Shell | 📅 2020-01-21 - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
@@ -197,8 +197,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for presenting your work*
 
-* [reveal.js](https://github.com/hakimel/reveal.js/) ⭐ 72,495 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30 - markdown based presentation on your browser
-* [impress.js](https://github.com/impress/impress.js) ⭐ 38,151 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23 - presentation framework based on the power of CSS3 transforms and transitions
+* [reveal.js](https://github.com/hakimel/reveal.js/) ⭐ 72,504 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30 - markdown based presentation on your browser
+* [impress.js](https://github.com/impress/impress.js) ⭐ 38,152 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23 - presentation framework based on the power of CSS3 transforms and transitions
 * [remark](https://github.com/gnab/remark) ⭐ 13,004 | 🐛 181 | 🌐 JavaScript | 📅 2024-06-19 - markdown based presentation on your browser
 * [WebSlides](https://github.com/jlantunez/webslides) ⭐ 6,324 | 🐛 82 | 🌐 JavaScript | 📅 2022-12-10 - Making HTML presentations easy
 * [deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,415 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28 - markdown based presentation on your browser
@@ -211,13 +211,13 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for having an awesome shell environment*
 
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,264 | 🐛 303 | 🌐 Shell | 📅 2026-10-27 - A community driven framework for managing zsh configuration.
-* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,266 | 🐛 1,089 | 🌐 Haskell | 📅 2026-10-26 - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
-* [fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 34,375 | 🐛 568 | 🌐 Rust | 📅 2026-10-27 - The user-friendly command line shell
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18,099 | 🐛 7 | 🌐 Shell | 📅 2026-10-31 - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,527 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,264 | 🐛 303 | 🌐 Shell | 📅 2026-10-27 compatible zsh frameworks
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,407 | 🐛 7 | 🌐 Shell | 📅 2026-09-30 - Framework for managing your fish shell configuration inspired by oh-my-zsh.
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,283 | 🐛 310 | 🌐 Shell | 📅 2026-11-01 - A community driven framework for managing zsh configuration.
+* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,269 | 🐛 1,089 | 🌐 Haskell | 📅 2026-10-26 - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
+* [fish-shell](https://github.com/fish-shell/fish-shell) ⭐ 34,386 | 🐛 570 | 🌐 Rust | 📅 2026-10-27 - The user-friendly command line shell
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18,102 | 🐛 6 | 🌐 Shell | 📅 2026-11-01 - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,527 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,283 | 🐛 310 | 🌐 Shell | 📅 2026-11-01 compatible zsh frameworks
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,410 | 🐛 7 | 🌐 Shell | 📅 2026-09-30 - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,527 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
-* [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) ⭐ 910 | 🐛 16 | 🌐 Shell | 📅 2026-10-26 - Quick intro for getting set up with zsh and zgen
+* [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) ⭐ 910 | 🐛 15 | 🌐 Shell | 📅 2026-11-01 - Quick intro for getting set up with zsh and zgen
 * [hss](https://github.com/six-ddc/hss) ⭐ 380 | 🐛 10 | 🌐 C | 📅 2025-10-17 - Never type the annoying ssh commands again.
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 
@@ -225,9 +225,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools for working with text files - search, replace, processing*
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,591 | 🐛 214 | 🌐 Rust | 📅 2026-10-27 - Faster than grep, written in Rust
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,614 | 🐛 214 | 🌐 Rust | 📅 2026-10-27 - Faster than grep, written in Rust
 * [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,126 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A C based code-searching tool similar to ack, but faster
-* [peco](https://github.com/peco/peco) ⭐ 7,908 | 🐛 2 | 🌐 Go | 📅 2026-10-27 - interactive filtering, like interactive Grep
+* [peco](https://github.com/peco/peco) ⭐ 7,909 | 🐛 2 | 🌐 Go | 📅 2026-10-27 - interactive filtering, like interactive Grep
 * [ack](https://github.com/petdance/ack2) ⭐ 1,464 | 🐛 9 | 🌐 Perl | 📅 2019-03-19 - the Perl based
   better-than-grep tool.
 
@@ -235,9 +235,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools and addons for terminal and terminal work*
 
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,264 | 🐛 303 | 🌐 Shell | 📅 2026-10-27 - the
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,283 | 🐛 310 | 🌐 Shell | 📅 2026-11-01 - the
   incredible ZSH addon.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,383 | 🐛 159 | 🌐 Rust | 📅 2026-10-24 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,399 | 🐛 158 | 🌐 Rust | 📅 2026-10-24 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 * [autojump](https://github.com/joelthelion/autojump) ⭐ 16,964 | 🐛 231 | 🌐 Python | 📅 2025-02-27 - remembers your
   folders and jump to them based on partial recall (e.g. `j proj` will jump
   to `/home/Users/yourself/projects`.
@@ -255,7 +255,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 *Tools and addons which improve your daily workflow with code*
 
-* [watchman](https://github.com/facebook/watchman) ⭐ 13,758 | 🐛 263 | 🌐 C++ | 📅 2026-10-31 - Facebook's better
+* [watchman](https://github.com/facebook/watchman) ⭐ 13,758 | 🐛 263 | 🌐 C++ | 📅 2026-11-01 - Facebook's better
   `watch` - note it works as a service.
 * [guard](https://github.com/guard/guard) ⭐ 6,429 | 🐛 70 | 🌐 Ruby | 📅 2026-07-16 - FS watch tool with a huge ecosystem of plugins
 * [fswatch](https://github.com/alandipert/fswatch) ⭐ 5,608 | 🐛 46 | 🌐 C++ | 📅 2026-07-22 - a watch tool which
@@ -272,4 +272,4 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
